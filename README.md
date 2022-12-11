@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python-django**
 
-- 👨‍💻 All of my projects are available at [github.com/kenkennie](github.com/kenkennie)
+- 👨‍💻 All of my projects are available at [https://github.com/kenkennie](github.com/kenkennie)
 
 - ⚡ Fun fact **i like learning**
 
